@@ -1,0 +1,6 @@
+{"PayrollId":100,"EmployeeId":1,"EmpName":"Haripriya","Department":"IT","Type":"Permanent","BasicPay":35416.67,"Allowance":7083.33,"Deductions":3541.67,"Hours":null,"HourlyRate":null,"Salary":38958.33,"PaymentDate":"2025-08-28"}
+{"PayrollId":101,"EmployeeId":2,"EmpName":"Neeraj","Department":"HR","Type":"Contract","BasicPay":null,"Allowance":null,"Deductions":null,"Hours":0,"HourlyRate":500,"Salary":0,"PaymentDate":"2025-08-28"}
+{"PayrollId":102,"EmployeeId":3,"EmpName":"Nihad","Department":"IT","Type":"Permanent","BasicPay":35416.67,"Allowance":7083.33,"Deductions":3541.67,"Hours":null,"HourlyRate":null,"Salary":38958.33,"PaymentDate":"2025-08-28"}
+{"PayrollId":103,"EmployeeId":4,"EmpName":"Fagya","Department":"CEO","Type":"Permanent","BasicPay":10288,"Allowance":2057.6,"Deductions":1028.8,"Hours":null,"HourlyRate":null,"Salary":11316.800000000001,"PaymentDate":"2025-08-28"}
+{"PayrollId":104,"EmployeeId":5,"EmpName":"Neeraj","Department":"IT","Type":"Contract","BasicPay":null,"Allowance":null,"Deductions":null,"Hours":43,"HourlyRate":500,"Salary":21500,"PaymentDate":"2025-08-28"}
+{"PayrollId":105,"EmployeeId":6,"EmpName":"Jithu","Department":"IT","Type":"Permanent","BasicPay":8333.33,"Allowance":1666.67,"Deductions":833.33,"Hours":null,"HourlyRate":null,"Salary":9166.67,"PaymentDate":"2025-08-28"}
